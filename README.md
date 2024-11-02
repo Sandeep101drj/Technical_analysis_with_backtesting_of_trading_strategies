@@ -6,7 +6,7 @@ This project is dedicated to the technical analysis and backtesting of stock tra
 
 ## Objective
 
-The primary objective of this project is to equip investors and financial analysts with a powerful toolkit for performing technical analysis and backtesting stock trading strategies. By leveraging historical stock data, technical indicators, and performance metrics, the project aims to:
+The primary objective of this project is to equip investors and financial analysts with a powerful toolkit for performing technical analysis and backtesting stock trading strategies. By utilizing historical stock data, technical indicators, and performance metrics, the project aims to:
 - **Enhance trading strategy development**: Enable users to create and refine trading strategies based on historical data and proven technical analysis methods.
 - **Improve decision-making**: Provide clear insights into the effectiveness of strategies through visualizations and key performance metrics.
 - **Optimize profitability**: Assist users in identifying strategies that yield optimal returns and minimize potential losses.
