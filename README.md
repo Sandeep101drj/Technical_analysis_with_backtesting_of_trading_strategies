@@ -16,6 +16,8 @@ This project is dedicated to the technical analysis and backtesting of stock tra
   - **Moving Average Convergence Divergence (MACD)**: A trend-following momentum indicator that shows the relationship between two EMAs.
   - **Relative Strength Index (RSI)**: A momentum oscillator that measures the speed and change of price movements, helping to identify overbought or oversold conditions.
   - **Bollinger Bands**: A volatility indicator that consists of a middle band (SMA) and two outer bands (standard deviations), used to identify potential price reversals.
+  - **Williams %R**: A momentum indicator that measures overbought and oversold levels, similar to RSI but on a different scale. It helps to identify potential reversal points by comparing the current closing price with the highest high over a specific period.
+
 
 ### Candle Chart Visualization
 - **Dynamic Candle Charts**: Create visually engaging candle charts that depict stock price movements over time. The charts are enhanced with overlays of technical indicators, allowing users to visually assess market trends and trading signals.
